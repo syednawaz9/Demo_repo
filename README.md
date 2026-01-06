@@ -1,2 +1,3 @@
 # Demo_repo
-my first session
+my first demo_ session
+This is my gethub session 
