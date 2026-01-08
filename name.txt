@@ -1,3 +1,7 @@
 syed nawaz form genesysy info x 
+<<<<<<< HEAD
 i am a software developer
 i am a fresher 
+=======
+am from adoni 
+>>>>>>> main
